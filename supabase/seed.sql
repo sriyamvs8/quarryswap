@@ -1,0 +1,4 @@
+-- The UI ships with a local fictional demo dataset so the public prototype works
+-- immediately. Use this file as the starting point for a real Supabase seed.
+-- Insert the three fictional demo sites first, then machines/inventory/requests.
+-- Keep the demo data clearly marked as fictional.
